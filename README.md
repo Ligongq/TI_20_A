@@ -14,12 +14,19 @@
 ## 📂 项目结构
 
 ├── Core/                   // 主控制逻辑与初始化
+
 ├── Drivers/                // 外设驱动，如ADC、MPU6050、ADS1292等
+
 ├── Display/                // 显示控制模块
+
 ├── Wireless/               // 无线透传模块管理
+
 ├── Sensors/                // 各传感器模块接口
-├── date\_process.c          // 数据预处理与滤波逻辑（本模块详述见下）
+
+├── date\_process.c          // 数据预处理与滤波逻辑
+
 ├── date\_process.h
+
 ├── README.md
 
 ---
